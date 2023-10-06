@@ -1,5 +1,6 @@
-## 1. 转换函数
-这里是转换为 double 的函数，要加 const 。  
-下面的代码先看有没有重载加法，再看能不能将 f 转换为 double 。  
-![](attachments/2.1.1conversion%20function.jpg)
+ non-explicit-one-argument ctor （隐式单参数构造函数）  
+![](attachments/3.1.1non-explicit%20one%20argument%20constructor.jpg)
+![](attachments/3.1.2non-explicit%20one%20argument%20constructor.jpg)
+![](attachments/3.1.3non-explicit%20one%20argument%20constructor.jpg)
+![](attachments/3.1.4non-explicit%20one%20argument%20constructor.jpg)
   
